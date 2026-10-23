@@ -8,12 +8,10 @@ Repository ini memuat proposal penelitian dan ringkasan rencana eksperimen untuk
 
 ## Informasi Peneliti
 
-- **Nama:** [Isi nama peneliti]
-- **NPM / NIM:** [Isi NPM / NIM]
-- **Program Studi:** [Isi program studi]
-- **Mata Kuliah:** [Isi jika diperlukan]
-
-Ganti placeholder identitas tersebut sebelum mengumpulkan proposal.
+- **Nama:** Muhammad Panandito Fatahillah
+- **NPM / NIM:** 23081010200
+- **Program Studi:** Informatika
+- **Mata Kuliah:** Riset Informatika
 
 ---
 
